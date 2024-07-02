@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1719871993736
+current_stage: None
+description: ''
+last_updated_timestamp: 1719871993736
+name: Example
+run_id: 271d6d8bf04948319895a587438c43e3
+run_link: ''
+source: file:///C:/Users/saiko/Desktop/MLOPs/MLFLOW/mlruns/0/271d6d8bf04948319895a587438c43e3/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///C:/Users/saiko/Desktop/MLOPs/MLFLOW/mlruns/0/271d6d8bf04948319895a587438c43e3/artifacts/model
+user_id: null
+version: 1

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/saiko/Desktop/MLOPs/MLFLOW/mlruns/0/c87fbd533a2e42eb959ef045bc643885/artifacts
+end_time: 1719871569025
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c87fbd533a2e42eb959ef045bc643885
+run_name: polite-hog-504
+run_uuid: c87fbd533a2e42eb959ef045bc643885
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719871564961
+status: 4
+tags: []
+user_id: saiko

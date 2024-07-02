@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/saiko/Desktop/MLOPs/MLFLOW/mlruns/0/cd559ccb3b7947439b98baadb9f7a296/artifacts
+end_time: 1719871598738
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cd559ccb3b7947439b98baadb9f7a296
+run_name: unique-lynx-936
+run_uuid: cd559ccb3b7947439b98baadb9f7a296
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719871595102
+status: 3
+tags: []
+user_id: saiko
